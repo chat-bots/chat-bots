@@ -1,0 +1,31 @@
+{
+  "name": "@chat-bots/argparse",
+  "version": "0.0.1-alpha.0",
+  "type": "module",
+  "main": "./dist/index.mjs",
+  "types": "./dist/index.d.mts",
+  "scripts": {
+    "dev": "tsc -b -w",
+    "build": "tsc -p ./tsconfig.build.json",
+    "test": "vitest --watch"
+  },
+  "files": [
+    "dist"
+  ],
+  "homepage": "https://github.com/zhengxs2018/chat-bots#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhengxs2018/chat-bots.git",
+    "directory": "packages/argparse"
+  },
+  "bugs": {
+    "url": "https://github.com/zhengxs2018/chat-bots/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "author": "zhengxs2018",
+  "license": "MIT"
+}

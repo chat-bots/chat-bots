@@ -1,0 +1,7 @@
+{
+  "*.mjs": ["prettier --write", "cspell lint --no-must-find-files"],
+  "*.cjs": ["prettier --write", "cspell lint --no-must-find-files"],
+  "*.js": ["prettier --write", "cspell lint --no-must-find-files"],
+  "*.json": ["prettier --write", "cspell lint --no-must-find-files"],
+  "*.md": ["prettier --write", "cspell lint --no-must-find-files"]
+}

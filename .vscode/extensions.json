@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "zixuanchen.vitest-explorer",
+    "streetsidesoftware.code-spell-checker",
+    "editorconfig.editorconfig",
+    "dbaeumer.vscode-eslint",
+    "xyz.local-history"
+  ]
+}

@@ -1,0 +1,34 @@
+version: "0.2"
+ignorePaths:
+  - archive
+  - dist
+  - node_modules
+dictionaries:
+  - en_US
+  - softwareTerms
+  - bash
+  - node
+  - npm
+  - html
+  - css
+  - typescript
+  - filetypes
+words:
+  - apikey
+  - argparse
+  - chatsonic
+  - commitlint
+  - deepl
+  - dingtalk
+  - midjourney
+  - mtsx
+  - openai
+  - pkgs
+  - preinstall
+  - trpc
+  - tsdoc
+  - wechat
+  - wechaty
+ignoreWords:
+  - trivago
+  - zhengxs

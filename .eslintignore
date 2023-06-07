@@ -1,0 +1,5 @@
+dist/
+dist-wiki/
+types/
+node_modules/
+examples

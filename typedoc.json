@@ -1,0 +1,12 @@
+{
+  "$schema": "https://typedoc.org/schema.json",
+  "name": "ChatBots 多平台聊天机器人",
+  "theme": "github-wiki",
+  "readme": "none",
+  "entryPoints": ["./packages/*"],
+  "entryPointStrategy": "packages",
+  "excludeInternal": true,
+  "excludePrivate": true,
+  "excludeExternals": true,
+  "out": "dist-wiki"
+}
