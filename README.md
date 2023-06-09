@@ -29,11 +29,11 @@ $ pnpm dev
 
 ### AI 模型
 
-| 名称                       | 描述                                     | 状态  |
-| -------------------------- | ---------------------------------------- | ----- |
-| @chat-bots/chat-models     | openai/bing/claude/文心一言/通义千问/... | Ideas |
-| @chat-bots/imagline-models | dell-e/midjourney/stable diffusion/...   | Ideas |
-| @chat-bots/tts-models      | azure/...                                | Ideas |
+| 名称                                                       | 描述                                     | 状态  |
+| ---------------------------------------------------------- | ---------------------------------------- | ----- |
+| [@chat-bots/chat-models](./packages/chat-models/README.md) | openai/bing/claude/文心一言/通义千问/... | WIP   |
+| @chat-bots/imagline-models                                 | dell-e/midjourney/stable diffusion/...   | Ideas |
+| @chat-bots/tts-models                                      | azure/...                                | Ideas |
 
 ### 基础模块
 
@@ -43,6 +43,13 @@ $ pnpm dev
 | [@chat-bots/dingtalk-node](./packages/dingtalk-node/README.md) | 钉钉 SDK                                            | Alpha |
 | [@chat-bots/node-sandbox](./packages/node-sandbox/README.md)   | 在 Node.js 中动态执行浏览器的脚本                   | Alpha |
 | [@chat-bots/node-stream ](./packages/node-sandbox/README.md)   | 处理 Node.js 中 Node 标准流和 W3C 的 ReadableStream | Alpha |
+
+## 声明
+
+1. 本项目不提供一切破解或类似非法的手段，仅提供 API 封装
+2. 对因使用本项目而导致的任何损失，本人概不负责
+3. 本项目仅供学习交流使用，不得用于商业用途
+4. 当你使用本项目时，即代表你同意上述条款
 
 ## License
 

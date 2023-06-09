@@ -1,0 +1,30 @@
+{
+  "name": "@chat-bots/chat-models",
+  "version": "0.0.1-alpha.0",
+  "type": "module",
+  "main": "./dist/index.mjs",
+  "types": "./dist/index.d.mts",
+  "source": "./src/index.mts",
+  "scripts": {
+    "dev": "tsc --build --watch",
+    "build": "tsc --build",
+    "test": "vitest --watch"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
+  },
+  "homepage": "https://github.com/zhengxs2018/chat-bots#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhengxs2018/chat-bots.git",
+    "directory": "packages/chat-models"
+  },
+  "bugs": {
+    "url": "https://github.com/zhengxs2018/chat-bots/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "author": "zhengxs",
+  "license": "UNLICENSED"
+}
