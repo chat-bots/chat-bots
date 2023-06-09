@@ -43,11 +43,11 @@ $ pnpm dev
 
 ### 基础模块
 
-| 名称                                                 | 描述             | 状态  |
-| ---------------------------------------------------- | ---------------- | ----- |
-| [@chat-bots/argparse](./packages/argparse/README.md) | 聊天指令解析模块 | Alpha |
-| @chat-bots/node-stream                               |                  | Ideas |
-| @chat-bots/dingtalk                                  |                  | Ideas |
+| 名称                                                           | 描述             | 状态  |
+| -------------------------------------------------------------- | ---------------- | ----- |
+| [@chat-bots/argparse](./packages/argparse/README.md)           | 聊天指令解析模块 | Alpha |
+| @chat-bots/node-stream                                         |                  | Ideas |
+| [@chat-bots/dingtalk-node](./packages/dingtalk-node/README.md) | 钉钉 SDK         | Ideas |
 
 ## License
 
