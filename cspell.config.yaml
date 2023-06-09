@@ -20,7 +20,10 @@ words:
   - commitlint
   - deepl
   - dingtalk
+  - encryptor
+  - larksuite
   - midjourney
+  - msgtype
   - mtsx
   - openai
   - pkgs
