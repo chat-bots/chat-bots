@@ -37,12 +37,12 @@ $ pnpm dev
 
 ### 基础模块
 
-| 名称                                                           | 描述                             | 状态  |
-| -------------------------------------------------------------- | -------------------------------- | ----- |
-| [@chat-bots/argparse](./packages/argparse/README.md)           | 聊天指令解析模块                 | Alpha |
-| [@chat-bots/dingtalk-node](./packages/dingtalk-node/README.md) | 钉钉 SDK                         | Alpha |
-| [@chat-bots/node-sandbox](./packages/sandbox/README.md)        | 在 NodeJS 中动态执行浏览器的脚本 | Alpha |
-| @chat-bots/node-stream                                         |                                  | Ideas |
+| 名称                                                           | 描述                                                | 状态  |
+| -------------------------------------------------------------- | --------------------------------------------------- | ----- |
+| [@chat-bots/argparse](./packages/argparse/README.md)           | 聊天指令解析模块                                    | Alpha |
+| [@chat-bots/dingtalk-node](./packages/dingtalk-node/README.md) | 钉钉 SDK                                            | Alpha |
+| [@chat-bots/node-sandbox](./packages/node-sandbox/README.md)   | 在 Node.js 中动态执行浏览器的脚本                   | Alpha |
+| [@chat-bots/node-stream ](./packages/node-sandbox/README.md)   | 处理 Node.js 中 Node 标准流和 W3C 的 ReadableStream | Alpha |
 
 ## License
 
