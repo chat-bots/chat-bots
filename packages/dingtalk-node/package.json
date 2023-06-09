@@ -13,6 +13,10 @@
   "files": [
     "dist"
   ],
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
+  },
   "homepage": "https://github.com/zhengxs2018/chat-bots#readme",
   "repository": {
     "type": "git",
