@@ -27,12 +27,6 @@ $ pnpm dev
 | @chat-bots/message-service | 消息处理   | Ideas |
 | @chat-bots/wechaty-service | 微信机器人 | Ideas |
 
-### 适配器
-
-| 名称 | 描述 | 状态 |
-| @chat-bots/adapter-koa | | Ideas |
-| @chat-bots/adapter-wechaty | | Ideas |
-
 ### AI 模型
 
 | 名称                       | 描述                                     | 状态  |
@@ -43,11 +37,12 @@ $ pnpm dev
 
 ### 基础模块
 
-| 名称                                                           | 描述             | 状态  |
-| -------------------------------------------------------------- | ---------------- | ----- |
-| [@chat-bots/argparse](./packages/argparse/README.md)           | 聊天指令解析模块 | Alpha |
-| @chat-bots/node-stream                                         |                  | Ideas |
-| [@chat-bots/dingtalk-node](./packages/dingtalk-node/README.md) | 钉钉 SDK         | Ideas |
+| 名称                                                           | 描述                             | 状态  |
+| -------------------------------------------------------------- | -------------------------------- | ----- |
+| [@chat-bots/argparse](./packages/argparse/README.md)           | 聊天指令解析模块                 | Alpha |
+| [@chat-bots/dingtalk-node](./packages/dingtalk-node/README.md) | 钉钉 SDK                         | Alpha |
+| [@chat-bots/node-sandbox](./packages/sandbox/README.md)        | 在 NodeJS 中动态执行浏览器的脚本 | Alpha |
+| @chat-bots/node-stream                                         |                                  | Ideas |
 
 ## License
 
